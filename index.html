@@ -11,7 +11,8 @@
     header,.card{background:white;border:1px solid #dce6ed;border-radius:18px;padding:22px;margin:0 0 14px}
     h1{font-size:clamp(2rem,6vw,3.2rem);line-height:1.1;margin:.2em 0}.eyebrow{color:#087f8c;font-weight:750;letter-spacing:.12em}
     h2{font-size:1.2rem;margin:0 0 8px}p,ul{margin:.4em 0}.notice{border-left:4px solid #bd5b21;background:#fff6eb;padding:14px 16px;border-radius:8px}
-    .muted{color:#5d7180}a{color:#076d8b;overflow-wrap:anywhere}li{margin:.35em 0}
+    .muted{color:#5d7180}a{color:#005fbe;text-decoration:underline;text-decoration-thickness:1.5px;text-underline-offset:3px;overflow-wrap:anywhere}a:focus,a:hover{color:#00458f;text-decoration-thickness:2px}li{margin:.35em 0}
+    .action{display:inline-block;background:#176b91;color:#fff;padding:11px 16px;border-radius:10px;text-decoration:none;font-weight:700}.action:hover,.action:focus{background:#0d5273;color:#fff;text-decoration:underline}
     .pill{display:inline-block;background:#e6f5f5;color:#075c64;border-radius:999px;padding:3px 10px;font-size:.85rem;font-weight:700}
   </style>
 </head>
@@ -22,7 +23,7 @@
     <h1>Datenschutzhinweise</h1>
     <p class="muted">Stand: 15. November 2026 · <span class="pill">Geschlossener Android-Test</span></p>
     <p>Test4Test ist kostenlos und ohne Werbung. Diese Hinweise beschreiben die Datenverarbeitung der App, ihrer API und dieser Datenschutzseite.</p>
-    <p><a href="https://test4test.noerber.de/delete-account/">Test4Test-Konto und zugehörige Daten löschen</a></p>
+    <p><a class="action" href="https://test4test.noerber.de/delete-account/">Test4Test-Konto und zugehörige Daten löschen</a></p>
   </header>
 
   <section class="card"><h2>1. Verantwortlicher und Kontakt</h2>
@@ -66,7 +67,7 @@
     <p>Kontodaten bleiben bis zur Löschung des Kontos gespeichert. Sitzungstoken verlieren nach 30 Tagen ihre Gültigkeit. Bei erfolgreicher Abmeldung am Server wird der zugehörige Token widerrufen; lokal werden die Kontodaten beim Abmelden entfernt. Abgelaufene Token-Datensätze werden nicht automatisch mit ihrem Gültigkeitsende als gelöscht zugesichert. Beim Verlassen eines Tests werden dessen Check-ins gelöscht; ein minimaler Beitrittsstatus bleibt zur Verwaltung eines möglichen Wiederbeitritts. Wird ein eigener App-Eintrag entfernt, werden dieser Eintrag und die zugehörigen Beitritte, Check-ins und Feedbackdaten gelöscht. Bei der Kontolöschung werden Konto, Google-Verknüpfung, Sitzungstoken, eigene App-Einträge und zugeordnete Testdaten aus der laufenden Datenbank entfernt.</p>
     <p>Die Tester-App-Liste wird in der laufenden App zwischengespeichert und beim Abmelden verworfen. Der Bildcache wird größenabhängig durch die Bildladebibliothek verwaltet und kann über das Löschen der Android-App-Daten entfernt werden. Der Server verwendet aufgelöste öffentliche Icon-Adressen sieben Tage lang, fehlgeschlagene Auflösungen eine Stunde lang; diese Cache-Einträge enthalten Paket-IDs und öffentliche Bildadressen, keine Konto- oder Beitrittsdaten. Diese Zeiten steuern die erneute Abfrage, nicht eine zugesicherte physische Löschung aller Cache-Dateien zu diesem Zeitpunkt.</p>
     <p><strong>Serverprotokolle und Sicherungskopien:</strong> Konkrete Fristen für den eingesetzten Febas-Tarif sind noch nicht bestätigt. Aus den geprüften öffentlichen Datenschutz- und AGB-Seiten werden keine festen Log- oder Backup-Löschfristen für Test4Test abgeleitet. Diese Angaben werden ergänzt, sobald sie für den eingesetzten Hosting-Vertrag bestätigt sind.</p>
-    <p><strong>Konto löschen:</strong> in der App unter Einstellungen → Konto und Daten löschen oder über den direkten Link <a href="https://test4test.noerber.de/delete-account/">https://test4test.noerber.de/delete-account/</a>. Auf der Löschseite meldest du dich mit demselben Google-Konto an und bestätigst die Löschung.</p>
+    <p><strong>Konto löschen:</strong> in der App unter Einstellungen → Konto und Daten löschen oder über den folgenden Button <a class="action" href="https://test4test.noerber.de/delete-account/">Zur Kontol&ouml;schung</a>. Auf der Löschseite meldest du dich mit demselben Google-Konto an und bestätigst die Löschung.</p>
   </section>
 
   <section class="card"><h2>7. Deine Rechte</h2>
