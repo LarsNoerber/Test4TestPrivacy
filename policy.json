@@ -15,7 +15,7 @@
       },
       {
         "title": "4. Geräte-Berechtigungen und Paket-Verifikation",
-        "body": "Test4Test nutzt lokale Android-Abfragen, um die Teilnahme an Closed-Tests zu bestätigen. Die App prüft über den Android Package Manager ausschließlich, ob die exakte Paket-ID (z. B. 'com.example.app') der Test-App auf deinem Gerät installiert ist, der du beigetreten bist. Ein Verlauf deiner anderweitig installierten Apps wird zu keiner Zeit ausgelesen oder an unsere Server übertragen."
+        "body": "Test4Test nutzt lokale Android-Abfragen, um die Teilnahme an Closed-Tests zu bestätigen. Die App prüft über den Android Package Manager ausschließlich, ob die exakte Paket-ID (z. B. 'com.example.app') der Test-App auf deinem Gerät installiert ist, der du beigetreten bist. Wenn du diesem Test beigetreten bist, die App installiert ist und beim Eintrag noch kein Symbol hinterlegt ist, kann Test4Test das Symbol dieser App einmalig auf unseren Server hochladen, damit es anderen Testern angezeigt werden kann. Der Upload wird dem Testeintrag zugeordnet und setzt voraus, dass dein angemeldetes Konto diesem Test beigetreten ist. Ein Verlauf deiner anderweitig installierten Apps wird zu keiner Zeit ausgelesen oder an unsere Server übertragen."
       },
       {
         "title": "5. Drittanbieter und Hosting",
@@ -47,7 +47,7 @@
       },
       {
         "title": "4. Device Permissions and Package Verification",
-        "body": "Test4Test uses local Android queries to confirm participation in closed tests. The app checks locally via the Android Package Manager exclusively whether the specific package ID (e.g., 'com.example.app') of the test app you joined is installed on your device. A history of your other installed apps is never accessed or transmitted to our servers."
+        "body": "Test4Test uses local Android queries to confirm participation in closed tests. The app checks locally via the Android Package Manager exclusively whether the specific package ID (e.g., 'com.example.app') of the test app you joined is installed on your device. If you have joined that test, the app is installed, and the listing has no icon yet, Test4Test may upload that app's icon to our server once so it can be shown to other testers. The upload is linked to that test listing and requires your signed-in account to have joined the test. A history of your other installed apps is never accessed or transmitted to our servers."
       },
       {
         "title": "5. Third Parties and Hosting",
