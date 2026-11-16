@@ -27,7 +27,7 @@
       },
       {
         "title": "7. Speicherung, Löschung und Nutzerrechte",
-        "body": "• Automatische Löschung von Nachrichten: Alle versendeten Nachrichten und Feedback-Einträge werden aus Datenschutzgründen automatisch nach maximal 14 Tagen unwiderruflich gelöscht.\n\nDeine Kontodaten bleiben gespeichert, bis du sie entfernst. Du hast jederzeit das Recht, dein komplettes Konto und alle damit verbundenen Daten unwiderruflich direkt in den App-Einstellungen zu löschen.\n\nGemäß DSGVO hast du zudem das Recht auf Auskunft (Art. 15), Berichtigung (Art. 16), Löschung (Art. 17) sowie auf Einschränkung der Verarbeitung. Bei Fragen kontaktiere uns unter codlng@gmx.de oder wende dich bei Bedarf an eine zuständige Aufsichtsbehörde."
+        "body": "• Bereinigung von Nachrichten: Nachrichten und Feedback-Einträge, die älter als 14 Tage sind und zu diesem Nutzer gehören, werden bei erfolgreicher Anmeldung schrittweise bereinigt. Pro Anmeldung werden höchstens 20 Einträge gelöscht. Bei größeren Mengen kann die Bereinigung erst bei späteren Anmeldungen abgeschlossen sein; Nachrichten können daher länger als 14 Tage gespeichert bleiben.\n\nDeine Kontodaten bleiben gespeichert, bis du sie entfernst. Du hast jederzeit das Recht, dein komplettes Konto und alle damit verbundenen Daten unwiderruflich direkt in den App-Einstellungen zu löschen.\n\nGemäß DSGVO hast du zudem das Recht auf Auskunft (Art. 15), Berichtigung (Art. 16), Löschung (Art. 17) sowie auf Einschränkung der Verarbeitung. Bei Fragen kontaktiere uns unter codlng@gmx.de oder wende dich bei Bedarf an eine zuständige Aufsichtsbehörde."
       }
     ]
   },
@@ -59,7 +59,7 @@
       },
       {
         "title": "7. Storage, Deletion, and User Rights",
-        "body": "• Automatic Message Deletion: All sent messages and feedback entries are automatically and permanently deleted after a maximum of 14 days for privacy reasons.\n\nYour account data is retained until you remove it. You have the right to irrevocably delete your entire account and all associated data directly within the app settings at any time.\n\nUnder the GDPR, you also have the right to access (Art. 15), rectification (Art. 16), erasure (Art. 17), and restriction of processing. If you have any questions, contact us at codlng@gmx.de or, if necessary, lodge a complaint with a supervisory authority."
+        "body": "? Message cleanup: Messages and feedback entries older than 14 days that belong to the user are gradually cleaned up after successful sign-in, with a maximum of 20 entries deleted per sign-in. If there are more, cleanup continues at later sign-ins, so messages may be stored for longer than 14 days.\n\nYour account data is retained until you remove it. You have the right to irrevocably delete your entire account and all associated data directly within the app settings at any time.\n\nUnder the GDPR, you also have the right to access (Art. 15), rectification (Art. 16), erasure (Art. 17), and restriction of processing. If you have any questions, contact us at codlng@gmx.de or, if necessary, lodge a complaint with a supervisory authority."
       }
     ]
   }
