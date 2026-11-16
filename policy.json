@@ -1,0 +1,66 @@
+{
+  "de": {
+    "privacySections": [
+      {
+        "title": "1. Verantwortlicher und Kontakt",
+        "body": "Verantwortlicher für Test4Test und diese Datenschutzerklärung ist:\nLars Nörber\nKontakt: codlng@gmx.de"
+      },
+      {
+        "title": "2. Erfasste Daten",
+        "body": "Um die Test-Plattform bereitzustellen, verarbeiten wir:\n• Google-Profil: E-Mail-Adresse und Anzeigename zur Kontoführung.\n• Test-Daten: App-Informationen, Google Groups-Links und Play Store Opt-in Links, die du für Tester veröffentlichst.\n• Interaktionsdaten: Deinen Check-in-Fortschritt in Apps anderer Entwickler sowie Nachrichten und Feedback, das du versendest.\n• Technische Daten: IP-Adresse und Zeitpunkt der Anfrage zur Absicherung unserer API (Rate-Limiting)."
+      },
+      {
+        "title": "3. Sichtbarkeit deiner Daten",
+        "body": "Deine Google-E-Mail-Adresse bleibt für andere Nutzer der App stets unsichtbar. Andere Nutzer (Tester oder Entwickler) sehen ausschließlich deinen Google-Anzeigenamen (Display Name). Wenn du einer App als Tester beitrittst, sieht der jeweilige Entwickler zusätzlich die Nachrichten und das Feedback, das du im Rahmen des Tests sendest."
+      },
+      {
+        "title": "4. Geräte-Berechtigungen und Paket-Verifikation",
+        "body": "Test4Test nutzt lokale Android-Abfragen, um die Teilnahme an Closed-Tests zu bestätigen. Die App prüft über den Android Package Manager ausschließlich, ob die exakte Paket-ID (z. B. 'com.example.app') der Test-App auf deinem Gerät installiert ist, der du beigetreten bist. Ein Verlauf deiner anderweitig installierten Apps wird zu keiner Zeit ausgelesen oder an unsere Server übertragen."
+      },
+      {
+        "title": "5. Drittanbieter und Hosting",
+        "body": "Wir greifen auf folgende essenzielle Dienstleister zurück:\n• Hosting: Backend und Datenbank werden in Deutschland auf Servern der Febas GmbH betrieben.\n• Authentifizierung: Der Login erfolgt nativ und sicher über den Google Credential Manager.\n• Dokumenten-Hosting: Diese Datenschutzseite wird über GitHub Pages ausgeliefert. GitHub protokolliert beim Abruf aus Sicherheitsgründen standardmäßig IP-Adressen."
+      },
+      {
+        "title": "6. Verzicht auf Werbung und Tracking",
+        "body": "Test4Test verzichtet explizit auf den Einsatz von Werbenetzwerken, versteckten Trackern sowie Drittanbieter-Analyse-SDKs (wie z. B. Firebase Analytics oder Crashlytics). Deine Nutzung wird nicht zu Werbezwecken ausgewertet."
+      },
+      {
+        "title": "7. Speicherung, Löschung und Nutzerrechte",
+        "body": "Deine Daten bleiben gespeichert, bis du sie entfernst. Du hast jederzeit das Recht, dein komplettes Konto und alle damit verbundenen Daten unwiderruflich direkt in den App-Einstellungen zu löschen.\n\nGemäß DSGVO hast du zudem das Recht auf Auskunft (Art. 15), Berichtigung (Art. 16), Löschung (Art. 17) sowie auf Einschränkung der Verarbeitung. Bei Fragen kontaktiere uns unter codlng@gmx.de oder wende dich bei Bedarf an eine zuständige Aufsichtsbehörde."
+      }
+    ]
+  },
+  "en": {
+    "privacySections": [
+      {
+        "title": "1. Controller and Contact",
+        "body": "Controller responsible for Test4Test and this privacy policy is:\nLars Nörber\nContact: codlng@gmx.de"
+      },
+      {
+        "title": "2. Collected Data",
+        "body": "To provide the testing platform, we process:\n• Google Profile: Email address and display name for account management.\n• Testing Data: App details, Google Groups links, and Play Store opt-in links that you publish for testers.\n• Interaction Data: Your check-in progress in apps of other developers, as well as messages and feedback you send.\n• Technical Data: IP address and request timestamp to secure our API (rate limiting)."
+      },
+      {
+        "title": "3. Visibility of Your Data",
+        "body": "Your Google email address remains invisible to other users of the app at all times. Other users (testers or developers) will only see your Google display name. When you join an app as a tester, the respective developer will additionally see the messages and feedback you send during the test."
+      },
+      {
+        "title": "4. Device Permissions and Package Verification",
+        "body": "Test4Test uses local Android queries to confirm participation in closed tests. The app checks locally via the Android Package Manager exclusively whether the specific package ID (e.g., 'com.example.app') of the test app you joined is installed on your device. A history of your other installed apps is never accessed or transmitted to our servers."
+      },
+      {
+        "title": "5. Third Parties and Hosting",
+        "body": "We rely on the following essential service providers:\n• Hosting: The backend and database are hosted on servers provided by Febas GmbH in Germany.\n• Authentication: Login is handled natively and securely via the Google Credential Manager.\n• Document Hosting: This privacy page is served via GitHub Pages. For security reasons, GitHub logs IP addresses by default upon access."
+      },
+      {
+        "title": "6. No Advertising or Tracking",
+        "body": "Test4Test explicitly refrains from using advertising networks, hidden trackers, and third-party analytics SDKs (such as Firebase Analytics or Crashlytics). Your usage is not analyzed for advertising purposes."
+      },
+      {
+        "title": "7. Storage, Deletion, and User Rights",
+        "body": "Your data is retained until you remove it. You have the right to irrevocably delete your entire account and all associated data directly within the app settings at any time.\n\nUnder the GDPR, you also have the right to access (Art. 15), rectification (Art. 16), erasure (Art. 17), and restriction of processing. If you have any questions, contact us at codlng@gmx.de or, if necessary, lodge a complaint with a supervisory authority."
+      }
+    ]
+  }
+}
