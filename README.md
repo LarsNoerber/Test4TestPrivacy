@@ -35,6 +35,8 @@ Die HTML-Seite enthält beide Sprachen mit direkten Sprachlinks. Die native Andr
 Laufzeit weiterhin die veröffentlichte JSON-Datei mit lokalem Offline-Fallback.
 
 Stand 21.11.2026 ergänzt: ausgewählte Bilddateien ohne allgemeine Galerie-Berechtigung,
-automatischer Upload nach Auswahl, Metadaten/privater Bildspeicher, Bildmeldungen und
-Löschwege, optionale Gerätesperre, Browser-Speicher und technische Missbrauchszähler.
+Android-Zuschneiden und dauerhaftes Schwärzen vor dem Upload, Metadaten/privater Bildspeicher,
+strukturierte Fehlerberichte samt bestehenden Bildverknüpfungen, Bildmeldungen und Löschwege,
+Testeraktivitätskennzahlen sowie der geschützte Migrationsdump. Optionale Gerätesperre,
+Browser-Speicher und technische Missbrauchszähler sind ebenfalls beschrieben.
 Noch unbestätigte Betreiber-/Hostingangaben werden nicht von anderen Webseiten übernommen.
