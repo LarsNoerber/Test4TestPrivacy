@@ -39,4 +39,7 @@ Android-Zuschneiden und dauerhaftes Schwärzen vor dem Upload, Metadaten/private
 strukturierte Fehlerberichte samt bestehenden Bildverknüpfungen, Bildmeldungen und Löschwege,
 Testeraktivitätskennzahlen sowie der geschützte Migrationsdump. Optionale Gerätesperre,
 Browser-Speicher und technische Missbrauchszähler sind ebenfalls beschrieben.
+Der aktuelle Stand beschreibt außerdem die Bildvorschau mit ausdrücklicher Sendebestätigung,
+optionale Bildkommentare, Google-Kontowiederherstellung, lokale Erinnerungszeiten und
+die Adminprüfung einzelner Meldungen vor Erreichen der Sperrschwelle.
 Noch unbestätigte Betreiber-/Hostingangaben werden nicht von anderen Webseiten übernommen.
