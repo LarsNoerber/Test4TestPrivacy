@@ -43,3 +43,11 @@ Der aktuelle Stand beschreibt außerdem die Bildvorschau mit ausdrücklicher Sen
 optionale Bildkommentare, Google-Kontowiederherstellung, lokale Erinnerungszeiten und
 die Adminprüfung einzelner Meldungen vor Erreichen der Sperrschwelle.
 Noch unbestätigte Betreiber-/Hostingangaben werden nicht von anderen Webseiten übernommen.
+
+
+Stand 24.11.2026: Sitzungswiderruf, Admin-Sitzungsalter, private API-Antworten,
+optionale und standardmäßig deaktivierte Backup-Verschlüsselung, geänderte Zählerbereinigung
+und die tatsächlichen Regeln für gespeicherte Nachrichten/Bilder sind beschrieben.
+Die Auswahl aller Test-Apps und der Unterschied zum Ausschalten der allgemeinen
+Nutzungsfreigabe sind erläutert; Web-Auswertung und Berichtskennungen sind ergänzt.
+Noch offene Betreiber- und Hostingangaben bleiben ausdrücklich offen.
